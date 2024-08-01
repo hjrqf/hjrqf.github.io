@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "weixin",
+      "icon": "fa-brands fa-weixin",
+      "link": ""
+    },
+    {
+      "name": "qq",
+      "icon": "fa-brands fa-qq",
+      "link": ""
+    },
+    {
+      "name": "github",
+      "icon": "fab fa-github",
+      "link": ""
+    },
+    {
+      "name": "blog",
+      "icon": "fa-solid fa-car-side",
+      "link": ""
+    }
+  ]
+}

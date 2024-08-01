@@ -1,0 +1,46 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "主页"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "关于"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+name = "个人博客"
+pageRef = "/blog"
+weight = 3
+
+[[main]]
+name = "友情链接"
+pageRef = "/authors"
+weight = 4
+
+
+
+
+
+
+
+
+
+# footer menu
+[[footer]]
+name = "关于"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "主页"
+pageRef = "/elements"
+weight = 2
+
+[[footer]]
+name = "友情链接"
+pageRef = "/authors"
+weight = 3
