@@ -18,9 +18,6 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/architecture/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,10 +37,13 @@
     <loc>http://localhost:1313/tags/git/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>http://localhost:1313/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/silicon/</loc>
+    <loc>http://localhost:1313/english/blog/post-4/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software/</loc>
@@ -93,12 +93,6 @@
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/blog/post-3/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/post-4/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/post-4/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</loc>

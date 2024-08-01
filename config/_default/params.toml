@@ -60,7 +60,7 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "我是公告，可以正常编辑，哈哈哈."
+content = "公告：热烈欢迎！"
   
 # seo meta data for OpenGraph / Twitter Card     # 用于 OpenGraph / Twitter Card 的 SEO 元数据
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo

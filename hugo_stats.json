@@ -11,6 +11,7 @@
       "details",
       "div",
       "em",
+      "file",
       "footer",
       "form",
       "h1",
@@ -34,7 +35,6 @@
       "main",
       "meta",
       "nav",
-      "noscript",
       "ol",
       "p",
       "path",
@@ -57,6 +57,7 @@
       "thead",
       "title",
       "tr",
+      "u",
       "ul",
       "video"
     ],
@@ -106,7 +107,6 @@
       "dark:text-darkmode-primary",
       "dark:text-white",
       "dark:to-darkmode-theme-light",
-      "dsq-brlink",
       "fa",
       "fa-arrow-right",
       "fa-brands",
@@ -186,7 +186,6 @@
       "lg:text-right",
       "lg:w-auto",
       "logo-dark",
-      "logo-disqus",
       "logo-light",
       "m-1",
       "m-3",
@@ -220,7 +219,6 @@
       "ms-1",
       "mt-10",
       "mt-11",
-      "mt-20",
       "mt-4",
       "mt-6",
       "mt-8",
@@ -328,6 +326,9 @@
       "zoomable"
     ],
     "ids": [
+      "1git顺序上传步骤",
+      "2git常用查看命令",
+      "3注意事项",
       "TableOfContents",
       "accordions",
       "announcement",
@@ -337,7 +338,6 @@
       "code-and-syntax-highlighting",
       "creative-design",
       "custom-video",
-      "disqus_thread",
       "email",
       "emphasis",
       "gallery",
@@ -371,7 +371,8 @@
       "theme-switcher",
       "unordered-list",
       "we-know-youre-dealing-in-stolen-ore",
-      "youtube-video"
+      "youtube-video",
+      "辗转反侧不甚理解遂总结如下方便记忆"
     ]
   }
 }

@@ -10,7 +10,7 @@ timeZone = "America/New_York"
 # post pagination
 paginate = 4 # see https://gohugo.io/extras/pagination/
 # post excerpt
-summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
+summaryLength = 2 # see https://gohugo.io/content-management/excerpts/
 # disable language
 disableLanguages = ["fr"
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
