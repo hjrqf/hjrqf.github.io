@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>友情链接、 on 任晓龙的博客</title>
+    <link>http://localhost:1313/renxiaolong.github.io/authors/</link>
+    <description>Recent content in 友情链接、 on 任晓龙的博客</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/renxiaolong.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>夏金元</title>
+      <link>http://localhost:1313/renxiaolong.github.io/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/renxiaolong.github.io/authors/sam-wilson/</guid>
+      <description>辽宋夏金元</description>
+    </item>
+    <item>
+      <title>李嘉卓</title>
+      <link>http://localhost:1313/renxiaolong.github.io/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/renxiaolong.github.io/authors/william-jacob/</guid>
+      <description>鬼火少年</description>
+    </item>
+    <item>
+      <title>郑哲</title>
+      <link>http://localhost:1313/renxiaolong.github.io/authors/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/renxiaolong.github.io/authors/john-doe/</guid>
+      <description>我还没有网站，后面会有的</description>
+    </item>
+  </channel>
+</rss>
