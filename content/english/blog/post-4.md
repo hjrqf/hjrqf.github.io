@@ -56,6 +56,10 @@ draft: false
 
 3、git push会经常碰到网络问题，不要急等一会就好了！
 
+-    `*git config --global --unset https.proxy    清除https代理;*`
+- `*git config --global --unset http.proxy      清楚http代理*`
+- `*ipconfig/flushdns      重置DNS*`
+
 4、参考文档是个好东西，要看细致了，漏看东西很致命！
 
 
