@@ -2,25 +2,25 @@
 # Banner
 banner:
   title: "欢迎来到我的博客"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content: "Meet is the fate, visitors are welcome to my blog!"
   image: "/images/banner.png"
   button:
     enable: true
     label: "这是一个链接"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "https://github.com/"
 
 # Features
 features:
-  - title: "这里放一些什么呢？"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "未来的目标"
+    image: "/images/blog/git-猫.png"
+    content: "竭尽自己的所能去完成"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "先熟练掌握音标并且要多背单词"
+      - "学习ps"
+      - "空"
+      - "空"
+      - "空"
+      - "空"
     button:
       enable: false
       label: "Get Started Now"

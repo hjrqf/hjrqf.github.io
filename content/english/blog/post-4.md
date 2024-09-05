@@ -2,7 +2,7 @@
 title: "git总结"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-08-01T22:00:00Z
 image: "/images/blog/git-nav.jpg"
 categories: ["技术"]
 author: "任晓龙"

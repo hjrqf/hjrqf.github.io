@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/english/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en copy"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en copy"
@@ -31,29 +31,17 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/data/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/git/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/post-4/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/blog/post-4/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/software/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/software/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en copy"
@@ -64,6 +52,27 @@
                 hreflang="en-us"
                 href="http://localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/blog/</loc>
+    <lastmod>2024-08-01T22:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/data/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/software/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/software/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
@@ -86,9 +95,6 @@
     <loc>http://localhost:1313/english/blog/post-2/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/post-3/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
@@ -96,12 +102,6 @@
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/english/pages/elements/</loc>
