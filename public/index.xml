@@ -16,24 +16,17 @@
       <description>辗转反侧，不甚理解，遂总结如下，方便记忆： 1、git顺序上传步骤： 1、git init: 在当前目录初始化一个新的 Git 仓库。</description>
     </item>
     <item>
-      <title>git总结</title>
-      <link>http://localhost:1313/english/blog/post-4/</link>
-      <pubDate>Thu, 01 Aug 2024 22:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/blog/post-4/</guid>
-      <description>辗转反侧，不甚理解，遂总结如下，方便记忆： 1、git顺序上传步骤： 1、git init: 在当前目录初始化一个新的 Git 仓库。</description>
+      <title>军训之趣事</title>
+      <link>http://localhost:1313/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-3/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
     </item>
     <item>
       <title>怎样搭建一个网站？</title>
       <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post-1/</guid>
-      <description>vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
-    </item>
-    <item>
-      <title>怎样搭建一个网站？</title>
-      <link>http://localhost:1313/english/blog/post-1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/blog/post-1/</guid>
       <description>vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
     </item>
     <item>
@@ -44,46 +37,11 @@
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
     </item>
     <item>
-      <title>怎样装系统</title>
-      <link>http://localhost:1313/english/blog/post-2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
-    </item>
-    <item>
-      <title>测试顺序是否修改会改变</title>
-      <link>http://localhost:1313/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
-    </item>
-    <item>
-      <title>测试顺序是否修改会改变</title>
-      <link>http://localhost:1313/english/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>http://localhost:1313/english/pages/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/pages/elements/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
-    </item>
-    <item>
       <title>Elements</title>
       <link>http://localhost:1313/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
-    </item>
-    <item>
-      <title>pages里面的</title>
-      <link>http://localhost:1313/english/pages/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/pages/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     <item>
       <title>pages里面的</title>
@@ -100,32 +58,11 @@
       <description></description>
     </item>
     <item>
-      <title>Ready to build your next project with Hugo?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
       <title>夏金元</title>
       <link>http://localhost:1313/authors/sam-wilson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/sam-wilson/</guid>
       <description>辽宋夏金元</description>
-    </item>
-    <item>
-      <title>夏金元</title>
-      <link>http://localhost:1313/english/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/authors/sam-wilson/</guid>
-      <description>辽宋夏金元</description>
-    </item>
-    <item>
-      <title>我是页脚文字描述</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
     </item>
     <item>
       <title>我是页脚文字描述</title>
@@ -142,24 +79,10 @@
       <description>鬼火少年</description>
     </item>
     <item>
-      <title>李家卓</title>
-      <link>http://localhost:1313/english/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/authors/william-jacob/</guid>
-      <description>鬼火少年</description>
-    </item>
-    <item>
       <title>李政哲</title>
       <link>http://localhost:1313/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/john-doe/</guid>
-      <description>我还没有网站，后面会有的</description>
-    </item>
-    <item>
-      <title>李政哲</title>
-      <link>http://localhost:1313/english/authors/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/english/authors/john-doe/</guid>
       <description>我还没有网站，后面会有的</description>
     </item>
   </channel>

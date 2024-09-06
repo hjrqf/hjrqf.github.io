@@ -16,6 +16,13 @@
       <description>辗转反侧，不甚理解，遂总结如下，方便记忆： 1、git顺序上传步骤： 1、git init: 在当前目录初始化一个新的 Git 仓库。</description>
     </item>
     <item>
+      <title>军训之趣事</title>
+      <link>http://localhost:1313/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-3/</guid>
+      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
+    </item>
+    <item>
       <title>怎样搭建一个网站？</title>
       <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
@@ -27,13 +34,6 @@
       <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
-    </item>
-    <item>
-      <title>测试顺序是否修改会改变</title>
-      <link>http://localhost:1313/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-3/</guid>
       <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna.</description>
     </item>
   </channel>
