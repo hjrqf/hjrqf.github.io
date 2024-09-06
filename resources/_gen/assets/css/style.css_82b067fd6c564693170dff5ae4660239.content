@@ -2017,9 +2017,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .mt-10 {
   margin-top: 2.5rem;
 }
-.mt-11 {
-  margin-top: 2.75rem;
-}
 .mt-4 {
   margin-top: 1rem;
 }
@@ -2098,9 +2095,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .rounded-2xl {
   border-radius: 1rem;
 }
-.rounded-full {
-  border-radius: 9999px;
-}
 .rounded-lg {
   border-radius: 0.5rem;
 }
@@ -2161,10 +2155,6 @@ input#nav-toggle:checked ~ #nav-menu {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.px-7 {
-  padding-left: 1.75rem;
-  padding-right: 1.75rem;
-}
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
@@ -2201,9 +2191,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .pb-6 {
   padding-bottom: 1.5rem;
 }
-.pl-2 {
-  padding-left: 0.5rem;
-}
 .pl-6 {
   padding-left: 1.5rem;
 }
@@ -2218,9 +2205,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .text-center {
   text-align: center;
-}
-.font-primary {
-  font-family: Heebo, sans-serif;
 }
 .text-\[8rem\] {
   font-size: 8rem;
@@ -2238,9 +2222,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .font-bold {
   font-weight: 700;
-}
-.font-semibold {
-  font-weight: 600;
 }
 .capitalize {
   text-transform: capitalize;
@@ -3257,6 +3238,11 @@ input#nav-toggle:checked ~ #nav-menu {
     width: 83.33333333333334%;
   }
 
+  .md\:col-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
   .md\:order-1 {
     order: 1;
   }
@@ -3310,9 +3296,9 @@ input#nav-toggle:checked ~ #nav-menu {
 
 @media (min-width: 1280px) {
 
-  .xl\:col-6 {
+  .xl\:col-12 {
     flex: 0 0 auto;
-    width: 50%;
+    width: 100%;
   }
 }
 

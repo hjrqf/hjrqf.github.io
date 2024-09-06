@@ -8,25 +8,32 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>夏金元</title>
-      <link>http://localhost:1313/authors/sam-wilson/</link>
+      <title>任晓龙</title>
+      <link>http://localhost:1313/authors/rxl-m/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/authors/sam-wilson/</guid>
-      <description>辽宋夏金元</description>
+      <guid>http://localhost:1313/authors/rxl-m/</guid>
+      <description>你好呀</description>
     </item>
     <item>
       <title>李家卓</title>
       <link>http://localhost:1313/authors/william-jacob/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/william-jacob/</guid>
-      <description>鬼火少年</description>
+      <description>待办</description>
     </item>
     <item>
       <title>李政哲</title>
       <link>http://localhost:1313/authors/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/authors/john-doe/</guid>
-      <description>我还没有网站，后面会有的</description>
+      <description>待办</description>
+    </item>
+    <item>
+      <title>杨城城</title>
+      <link>http://localhost:1313/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/sam-wilson/</guid>
+      <description>待办</description>
     </item>
   </channel>
 </rss>
