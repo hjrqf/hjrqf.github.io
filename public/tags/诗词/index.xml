@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blog/%E5%8F%A4%E8%AF%97%E8%AF%8D-1/</guid>
       <description>长恨歌 作者：白居易</description>
     </item>
+    <item>
+      <title>诗人介绍</title>
+      <link>http://localhost:1313/blog/%E8%AF%97%E4%BA%BA%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%E8%AF%97%E4%BA%BA%E4%BB%8B%E7%BB%8D/</guid>
+      <description>春秋战国 先秦诸子百家 孔子</description>
+    </item>
   </channel>
 </rss>

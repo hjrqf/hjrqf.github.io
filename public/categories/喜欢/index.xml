@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/blog/%E5%8F%A4%E8%AF%97%E8%AF%8D-1/</guid>
       <description>长恨歌 作者：白居易</description>
     </item>
+    <item>
+      <title>喜欢的句子</title>
+      <link>http://localhost:1313/blog/%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8F%A5%E5%AD%90-5/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8F%A5%E5%AD%90-5/</guid>
+      <description>诗 吾生也有涯，而知也无涯。——庄子</description>
+    </item>
   </channel>
 </rss>
