@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "“ 愿此行终抵群星 ”"
-description: ""
+description: "旅途的意义在于探索"
 
 # Testimonials
 # testimonials:

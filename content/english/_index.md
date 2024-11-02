@@ -12,6 +12,7 @@ features:
     image: "/images/blog/git-猫.png"
     content: "竭尽自己的所能去完成"
     bulletpoints:
+      - "不能遗忘，要及时更新"
       - "先熟练掌握音标并且要多背单词"
       - "学习ps"
     button:
