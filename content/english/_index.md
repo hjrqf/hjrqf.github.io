@@ -24,10 +24,10 @@ features:
     image: "/images/blog/诗.jpg"
     content: ""
     bulletpoints:
+      - "水可载舟，亦可覆舟"
       - "吾生也有涯，而知也无涯。——庄子"
       - "相濡以沫，不如相忘于江湖。——庄子"
       - "慢品人间烟火色，闲观万事岁月长——苏轼"
-
     button:
       enable: false
       label: ""
